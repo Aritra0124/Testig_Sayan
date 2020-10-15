@@ -45,3 +45,4 @@ void main() {
 	}
 	printf("\n");
 }
+//this is a code ...thanks..
